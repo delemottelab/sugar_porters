@@ -1,2 +1,2 @@
 # sugar_porters
-For the analysis of simulations of sugar transporters 
+This repository contains jupyter notebooks for the analysis of MD simulations of sugar transporters 
